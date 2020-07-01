@@ -1,0 +1,5 @@
+pandas==1.0.1
+psycopg2==2.8.5
+PyMySQL==0.9.3
+SQLAlchemy==1.3.13
+gtls==0.0.1
